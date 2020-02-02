@@ -59,7 +59,7 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/53a705d4-1267-4276-9a4e-9798dab71013/Maths 2005 HSC - Marking Guidelines.pdf?MOD=AJPERES"
 	},
 
-	"2006 HSC"
+	"2006 HSC":
 	{
 		"title": "Maths 2006 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/ebf22965-c7c6-47ce-997e-79a4111f9ffe/Maths 2006 HSC.pdf?MOD=AJPERES"
@@ -71,7 +71,7 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/21469c1f-41d0-49f0-96c3-080e9f44055d/Maths 2006 HSC - Marking Guidelines.pdf?MOD=AJPERES"
 	},
 
-	"2007 HSC"
+	"2007 HSC":
 	{
 		"title": "Maths 2007 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/b62b1306-2635-4b96-a0fc-12b73fda87f3/Maths 2007 HSC.pdf?MOD=AJPERES"
@@ -83,31 +83,31 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/3a30c313-c6bf-4b2c-8ef3-c499868e40ad/Maths 2007 HSC - Marking Guidelines.pdf?MOD=AJPERES"
 	},
 
-	"2008 HSC"
+	"2008 HSC":
 	{
 		"title": "Maths 2008 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/7f4397af-e8f1-44ce-91eb-d97e6f83bfc4/Maths 2008 HSC.pdf?MOD=AJPERES"
 	},
 
-	"2008 Marking Guidelines"
+	"2008 Marking Guidelines":
 	{
 		"title": "Maths 2008 HSC - Marking Guidelines",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/dc22dceb-4bd1-4dea-9a0b-0a6c953befdb/Maths 2008 HSC - Marking Guidelines.pdf?MOD=AJPERES"
 	},
 
-	"2009 HSC"
+	"2009 HSC":
 	{
 		"title": "Maths 2009 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/9605e4e3-e1e9-43e7-8942-28d472a2f4fd/Maths 2009 HSC.pdf?MOD=AJPERES"
 	},
 
-	"2009 Marking Guidelines"
+	"2009 Marking Guidelines":
 	{
 		"title": "Maths 2009 HSC - Marking Guidelines",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/c0ff4010-f2c0-4fef-875e-cf0103ed6147/Maths 2009 HSC - Marking Guidelines.pdf?MOD=AJPERES"
 	},
 
-	"2009 Sample Answers"
+	"2009 Sample Answers":
 	{
 		"title": "Maths 2009 HSC - Sample Answers",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/8993eef0-23f6-4921-96b4-60ada60f18be/Maths 2009 HSC - Sample Answers.pdf?MOD=AJPERES"
@@ -119,19 +119,19 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/72581310-77c0-4ad6-a2ad-0c5ea46eddd4/Maths 2009 HSC - Marking Feedback.pdf?MOD=AJPERES"
 	},
 
-	"2010 HSC"
+	"2010 HSC":
 	{		
 		"title": "Maths 2010 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/e8e5dd58-ab1f-482d-b849-221495c629c6/Maths 2010 HSC.pdf?MOD=AJPERES"
 	},
 
-	"2010 Marking Guidelines"
+	"2010 Marking Guidelines":
 	{
 		"title": "Maths 2010 HSC - Marking Guidelines",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/2f3d9145-752a-4365-8e3d-224181a8efe3/Maths 2010 HSC - Marking Guidelines.pdf?MOD=AJPERES"
 	},
 
-	"2010 Sample Answers"
+	"2010 Sample Answers":
 	{
 		"title": "Maths 2010 HSC - Sample Answers",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/2d2e6941-7c7a-48d9-ac64-f179fc8eb210/Maths 2010 HSC - Sample Answers.pdf?MOD=AJPERES"
@@ -143,19 +143,19 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/8c726174-34a0-4e28-81d7-15c8d9790aa2/Maths 2010 HSC - Marking Feedback.pdf?MOD=AJPERES"
 	},
 
-	"2011 HSC"
+	"2011 HSC":
 	{
 		"title": "Maths 2011 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/f718de94-0e72-4393-bb72-714be7283934/Maths 2011 HSC.pdf?MOD=AJPERES"
 	},
 
-	"2011 Marking Guidelines"
+	"2011 Marking Guidelines":
 	{
 		"title": "Maths 2011 HSC - Marking Guidelines",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/32f2c9ba-f895-487a-926b-0b9758bd5575/Maths 2011 HSC - Marking Guidelines.pdf?MOD=AJPERES"
 	},
 
-	"2011 Sample Answers"
+	"2011 Sample Answers":
 	{	
 		"title": "Maths 2011 HSC - Sample Answers",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/cc139b96-50ad-4f8c-8340-a041da90a953/Maths 2011 HSC - Sample Answers.pdf?MOD=AJPERES"
@@ -167,19 +167,19 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/d4335324-6833-470f-9582-4f1538d01c68/Maths 2011 HSC - Marking Feedback.pdf?MOD=AJPERES"
 	},
 
-	"2012 HSC"
+	"2012 HSC":
 	{
 		"title": "Maths 2012 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/41e874c4-e708-4d80-b519-4632b4cc9608/Maths 2012 HSC.pdf?MOD=AJPERES"
 	},
 
-	"2012 Marking Guidelines"
+	"2012 Marking Guidelines":
 	{
 		"title": "Maths 2012 HSC - Marking Guidelines",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/f59a1127-03e5-4c58-80b8-dfb60963c57f/Maths 2012 HSC - Marking Guidelines.pdf?MOD=AJPERES"
 	},
 
-	"2012 Sample Answers"
+	"2012 Sample Answers":
 	{
 		"title": "Maths 2012 HSC - Sample Answers",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/dbd27dbc-81a7-42bd-a119-6b5b0ad1a0f9/Maths 2012 HSC - Sample Answers.pdf?MOD=AJPERES"
@@ -191,13 +191,13 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/3792254f-0d0a-4a1f-9a9a-0618a95c7b08/Maths 2012 HSC - Marking Feedback.pdf?MOD=AJPERES"
 	},
 
-	"2013 HSC"
+	"2013 HSC":
 	{
 		"title": "Maths 2013 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/2cdf8537-92dc-4328-ab39-74a1f1dd489f/Maths 2013 HSC.pdf?MOD=AJPERES"
 	},
 
-	"2013 Marking Guidelines"
+	"2013 Marking Guidelines":
 	{
 		"title": "Maths 2013 HSC - Marking Guidelines",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/fcaf5157-22a3-4614-bd55-2ef99359a7e7/Maths 2013 HSC - Marking Guidelines.pdf?MOD=AJPERES"
@@ -209,7 +209,7 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/d15fb656-6325-4187-baa5-3b066ad72d15/Maths 2013 HSC - Marking Feedback.pdf?MOD=AJPERES"
 	},
 
-	"2014 HSC"
+	"2014 HSC":
 	{
 		"title": "Maths 2014 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/29a5c008-2dd6-4aa6-a5db-4796f6c3ea20/Maths 2014 HSC.pdf?MOD=AJPERES"
@@ -227,7 +227,7 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/8c3267d1-ac30-4638-8774-66a753ed6757/Maths 2014 HSC - Marking Feedback.pdf?MOD=AJPERES"
 	},
 
-	"2015 HSC"
+	"2015 HSC":
 	{
 		"title": "Maths 2015 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/33156c3f-4bf4-471a-985a-f3efc2cb0e09/Maths 2015 HSC.pdf?MOD=AJPERES"
@@ -243,7 +243,7 @@
 		"title": "Maths 2015 HSC - Marking Feedback",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/f529ebb3-e585-40e2-8ba9-6432672c6425/Maths 2015 HSC - Marking Feedback.pdf?MOD=AJPERES"
 	}
-	"2016 HSC"
+	"2016 HSC":
 	{
 		"title": "Maths 2016 HSC"
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/47b7a5d2-8729-4d55-825a-7e840444d93f/Maths 2016 HSC.pdf?MOD=AJPERES"
@@ -258,7 +258,7 @@
 		"title": "Maths 2016 HSC - Marking Feedback",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/2a285435-4f53-460b-af4f-bbe80ecd85ff/Maths 2016 HSC - Marking Feedback.pdf?MOD=AJPERES"
 	}
-	"2017 HSC"
+	"2017 HSC":
 	{
 		"title": "Maths 2017 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/bc11fd79-e2ec-4c02-967c-b31a741b621c/Maths 2017 HSC.pdf?MOD=AJPERES"
@@ -276,7 +276,7 @@
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/326c1abd-0092-4e5c-8d2a-239cdc26fc49/Maths 2017 HSC - Marking Feedback.pdf?MOD=AJPERES"
 	},
 
-	"2018 HSC"
+	"2018 HSC":
 	{
 		"title": "Maths 2018 HSC",
 		"pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/9b8503bb-b6bb-4818-803a-661ba2289782/Maths 2018 HSC?MOD=AJPERES"
