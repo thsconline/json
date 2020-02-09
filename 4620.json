@@ -64,6 +64,10 @@
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/925e3604-087f-4556-80d5-14cfda41651b/Japanese 2008 HSC.pdf?MOD=AJPERES",
     "title": "Japanese 2008 HSC"
   },
+  "2008 Marking Guidelines": {
+    "pdfData": "https://www.boardofstudies.nsw.edu.au/hsc_exams/hsc2008exams/pdf_doc/japanese-notes-08.pdf",
+    "title": "Japanese 2008 HSC - Marking Guidelines"
+  },
   "2009 HSC": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/51cbead5-e18c-451f-9455-624a48832aa1/Japanese 2009 HSC.pdf?MOD=AJPERES",
     "title": "Japanese 2009 HSC"
@@ -188,6 +192,10 @@
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/9b93ea7d-c054-4e69-88a3-1164bcaf0b3e/Japanese 2017 HSC.pdf?MOD=AJPERES",
     "title": "Japanese 2017 HSC"
   },
+  "2017 Listening Audio": {
+    "audioData": "http://f1.media.brightcove.com/12/2750693524001/2750693524001_5626342195001_5626326688001.mp3",
+    "title": "Japanese 2017 HSC - Listening Audio"
+  }
   "2017 Listening Transcript": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/82ac761c-c58d-430a-a4a9-a35ae081f9c6/Japanese 2017 HSC - Listening Transcript.pdf?MOD=AJPERES",
     "title": "Japanese 2017 HSC - Listening Transcript"
@@ -200,6 +208,11 @@
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/854a6907-b510-4ec5-b82a-8834252d83a5/Japanese 2018 HSC.pdf?MOD=AJPERES",
     "title": "Japanese 2018 HSC"
   },
+ 
+  "2018 Listening Audio": {
+    "audioData": "https://f1.media.brightcove.com/12/2750693524001/2750693524001_5853571421001_5853570083001.mp4",
+    "title": "Japanese 2018 HSC - Listening Audio"
+  }, 
   "2018 Listening Transcript": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/07006f67-bd39-4a00-8fec-484717f8b6a5/Japanese 2018 HSC - Listening Transcript.pdf?MOD=AJPERES",
     "title": "Japanese 2018 HSC - Listening Transcript"
