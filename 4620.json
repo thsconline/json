@@ -84,6 +84,10 @@
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/516076a3-213e-4b50-a048-42f1f7017b7e/Japanese 2010 HSC.pdf?MOD=AJPERES",
     "title": "Japanese 2010 HSC"
   },
+  "2010 Listening Audio": {
+    "audioData": "http://f1.media.brightcove.com/12/2750693524001/2750693524001_5227522038001_5227519644001.mp3",
+    "title": "Japanese 2010 HSC - Listening Audio"
+  }
   "2010 Listening Transcript": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/52ab2d1a-87cf-4170-afdc-4bb7daba121e/Japanese 2010 HSC - Listening Transcript.pdf?MOD=AJPERES",
     "title": "Japanese 2010 HSC - Listening Transcript"
@@ -100,6 +104,10 @@
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/767e6385-9bdc-4db4-ab01-703e71a7befe/Japanese 2011 HSC.pdf?MOD=AJPERES",
     "title": "Japanese 2011 HSC"
   },
+  "2011 Listening Audio": {
+    "audioData": "https://f1.media.brightcove.com/12/2750693524001/2750693524001_5227501039001_5227488344001.mp3",
+    "title": "Japanese 2011 HSC - Audio"
+  }
   "2011 Listening Transcript": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/a1aba5af-702a-4fae-9e5b-2fd95bc2b2b2/Japanese 2011 HSC - Listening Transcript.pdf?MOD=AJPERES",
     "title": "Japanese 2011 HSC - Listening Transcript"
@@ -115,6 +123,10 @@
   "2012 HSC": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/7d6d336d-2f70-4de4-bd10-709826693757/Japanese 2012 HSC.pdf?MOD=AJPERES",
     "title": "Japanese 2012 HSC"
+  },
+  "2012 Listening Audio": {
+    "audioData": "http://f1.media.brightcove.com/12/2750693524001/2750693524001_5227455625001_5227443452001.mp3",
+    "title": "Japanese 2014 HSC - Listening Audio"
   },
   "2012 Listening Transcript": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/5f1d00bd-a8f5-42bc-9642-3baaf0aa6235/Japanese 2012 HSC - Listening Transcript.pdf?MOD=AJPERES",
@@ -135,7 +147,7 @@
   "2013 Listening Audio": {
     "audioData": "http://f1.media.brightcove.com/12/2750693524001/2750693524001_5227367951001_5227355286001.mp3",
     "title": "Japanese 2013 HSC - Listening Audio"
-  }
+  },
   "2013 Listening Transcript": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/b71b939a-84d0-4b70-a764-b135ea418fa4/Japanese 2013 HSC - Listening Transcript.pdf?MOD=AJPERES",
     "title": "Japanese 2013 HSC - Listening Transcript"
