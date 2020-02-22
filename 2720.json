@@ -126,5 +126,31 @@
   "2008 Marking Guidelines": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/8e587fa8-2d27-4b12-b21f-4798f17eaf34/English 2008 HSC - Marking Guidelines.pdf?MOD=AJPERES",
     "title": "English 2008 HSC - Marking Guidelines"
-  }
+  },
+  
+ 
+  "2016 HSC Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/34347a88-1d0b-4b1d-b625-03ec4addda27/English 2016 HSC Paper 1.pdf?MOD=AJPERES",
+    "title": "English 2016 HSC Paper 1"
+  },
+  "2016 HSC Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/da55b41d-d2cb-4ea5-b257-543f483122c3/English 2016 HSC Paper 2 Advanced.pdf?MOD=AJPERES",
+    "title": "English 2016 HSC Paper 2 Advanced"
+  },
+  "2016 HSC Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/f4e443cf-4c07-4da5-af0d-ba5b6790a971/English 2016 HSC Paper 2 Standard.pdf?MOD=AJPERES",
+    "title": "English 2016 HSC Paper 2 Standard"
+  },
+  "2016 Marking Guidelines Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/a816fa93-5a7c-445a-8546-e805cad83ff0/English 2016 HSC Paper 1 - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2016 HSC Paper 1 - Marking Guidelines"
+  },
+  "2016 Marking Guidelines Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/96dc588b-6cd1-4cdc-a4cd-082252d83adc/English 2016 HSC Paper 2 Advanced - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2016 HSC Paper 2 Advanced - Marking Guidelines"
+  },
+  "2016 Marking Guidelines Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/cbaed066-2497-421b-8b23-0e40c09330fb/English 2016 HSC Paper 2 Standard - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2016 HSC Paper 2 Standard - Marking Guidelines"
+  } 
 }
