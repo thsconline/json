@@ -127,8 +127,194 @@
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/8e587fa8-2d27-4b12-b21f-4798f17eaf34/English 2008 HSC - Marking Guidelines.pdf?MOD=AJPERES",
     "title": "English 2008 HSC - Marking Guidelines"
   },
-  
- 
+  "2009 HSC Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/0033b9cc-5daa-4781-b789-a7b288037b75/English 2009 HSC Paper 1.pdf?MOD=AJPERES",
+    "title": "English 2009 HSC Paper 1.pdf"
+  },
+  "2009 HSC Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/a1bcdf4c-0dab-449b-9b7a-ea426734a89b/English 2009 HSC Paper 2 Advanced.pdf?MOD=AJPERES",
+    "title": "English 2009 HSC Paper 2 Advanced"
+  },
+  "2009 HSC Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/df48b592-46ad-4ee0-9493-a4da1d9eb118/English 2009 HSC Paper 2 Standard.pdf?MOD=AJPERES",
+    "title": "English 2009 HSC Paper 2 Standard"
+  },
+  "2009 Marking Guidelines Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/6fba08e1-0852-4055-af01-6c6a42973ebc/English 2009 HSC Paper 1 - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2009 HSC Paper 1 - Marking Guidelines"
+  },
+  "2009 Marking Guidelines Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/73998430-7458-4c50-8502-595c4fc09879/English 2009 HSC Paper 2 Advanced - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2009 HSC Paper 2 Advanced - Marking Guidelines"
+  },
+  "2009 Marking Guidelines Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/dfb169a5-7c7a-4bac-95d0-82e5c8d72e89/English 2009 HSC Paper 2 Standard - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2009 HSC Paper 2 Standard - Marking Guidelines"
+  },
+  "2009 Sample Answers Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/9519b33a-ddc8-4fa6-acb6-4714a77ceeeb/English 2009 HSC Paper 1 - Sample Answers.pdf?MOD=AJPERES",
+    "title": "English 2009 HSC Paper 1 - Sample Answers"
+  },
+  "2010 HSC Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/6b81fbec-6261-40ab-9dd6-7d78a4ffe0cf/English 2010 HSC Paper 1.pdf?MOD=AJPERES",
+    "title": "English 2010 HSC Paper 1.pdf"
+  },
+  "2010 HSC Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/cb8cb138-a9e2-4f46-b57a-92247d14a3cf/English 2010 HSC Paper 2 Advanced.pdf?MOD=AJPERES",
+    "title": "English 2010 HSC Paper 2 Advanced"
+  },
+  "2010 HSC Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/91ae5abc-45e4-4743-a9f4-ca5e568ad806/English 2010 HSC Paper 2 Standard.pdf?MOD=AJPERES",
+    "title": "English 2010 HSC Paper 2 Standard"
+  },
+  "2010 Marking Guidelines Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/cec76d03-9f8f-4702-a1da-3c373b26ebda/English 2010 HSC Paper 1 - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2010 HSC Paper 1 - Marking Guidelines"
+  },
+  "2010 Marking Guidelines Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/6faae387-3ddf-4b88-8515-077ac5a933dd/English 2010 HSC Paper 2 Advanced - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2010 HSC Paper 2 Advanced"
+  },
+  "2010 Marking Guidelines Paper 2 (Standard)": {
+    "pdfData": "http://www.boardofstudies.nsw.edu.au/hsc_exams/hsc2010exams/pdf_doc/english-standard-p2-marking-guide-10.pdf",
+    "title": "English 2010 HSC Paper 2 Standard - Marking Guidelines"
+  },
+  "2010 Sample Answers Paper 1": {
+    "pdfData": "http://www.boardofstudies.nsw.edu.au/hsc_exams/hsc2010exams/pdf_doc/english-std-adv-sample-answers-10.pdf",
+    "title": "English 2010 HSC Paper 1 - Sample Answers"
+  },
+  "2011 HSC Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/9347de39-145e-4154-8122-c9c9473ba7c5/English 2011 HSC Paper 1.pdf?MOD=AJPERES",
+    "title": "English 2011 HSC Paper 1"
+  },  
+  "2011 HSC Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/fdb0d809-1c14-4d05-8592-70deb8f59571/English 2011 HSC Paper 2 Advanced.pdf?MOD=AJPERES",
+    "title": "English 2011 HSC Paper 2 Advanced"
+  },
+  "2011 HSC Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/45d4c52a-0cdc-4ea4-8c74-49bcd218e9c1/English 2011 HSC Paper 2 Standard.pdf?MOD=AJPERES",
+    "title": "English 2011 HSC Paper 2 Standard"
+  },
+  "2011 Marking Guidelines Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/064534a2-192b-4fe6-b271-58fe686f00af/English 2011 HSC Paper 1 - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2011 HSC Paper 1 - Marking Guidelines - Paper 1"
+  },
+  "2011 Marking Guidelines Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/7527dc2f-6e92-47b2-8470-2bafdf028b36/English 2011 HSC Paper 2 Advanced - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2011 HSC Paper 2 Advanced - Marking Guidelines"
+  },
+  "2011 Marking Guidelines Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/9f0b51ef-14a4-4913-bfda-28a5f9da93f4/English 2011 HSC Paper 2 Standard - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2011 HSC Paper 2 Standard - Marking Guidelines"
+  },
+  "2011 Sample Answers Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/8e29d124-92a0-4f14-bba8-f7cbd523d21b/English 2011 HSC Paper 1 - Sample Answers.pdf?MOD=AJPERES",
+    "title": "English 2011 HSC Paper 1 - Sample Answers"
+  },
+  "2012 HSC Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/3d75ec54-ce96-48c8-bc2f-276fa5e33ce2/English 2012 HSC Paper 1.pdf?MOD=AJPERES",
+    "title": "English 2012 HSC Paper 1.pdf"
+  },
+  "2012 HSC Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/a8ba53cd-3add-4f5d-9640-14be6618d52e/English 2012 HSC Paper 2 Advanced.pdf?MOD=AJPERES",
+    "title": "English 2012 HSC Paper 2 Advanced"
+  },
+  "2012 HSC Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/847e0d38-df11-4331-b78d-caafcaae6038/English 2012 HSC Paper 2 Standard.pdf?MOD=AJPERES",
+    "title": "English 2012 HSC Paper 2 Standard"
+  },
+  "2012 Marking Feedback": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/e79527fc-9359-43da-9d19-1adc841e9cae/English 2012 HSC - Marking Feedback.pdf?MOD=AJPERES",
+    "title": "English 2012 HSC - Marking Feedback"
+  },
+  "2012 Marking Guidelines Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/0b213e82-0c61-4927-aac9-ce24a923d83e/English 2012 HSC Paper 1 - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2012 HSC Paper 1 - Marking Guidelines"
+  },
+  "2012 Marking Guidelines Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/8d613c9a-4b5f-4f39-ab3e-e75e520dc514/English 2012 HSC Paper 2 Advanced - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2012 HSC Paper 2 Advanced - Marking Guidelines"
+  },
+  "2012 Marking Guidelines Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/d50a54b4-718f-42c0-8ed4-cfa558b1cc2a/English 2012 HSC Paper 2 Standard - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2012 HSC Paper 2 Standard - Marking Guidelines"
+  },
+  "2012 Sample Answers Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/c49ceecd-6f2d-4f08-a51a-7e2580f3a5a8/English 2012 HSC Paper 1 - Sample Answers.pdf?MOD=AJPERES",
+    "title": "English 2012 HSC Paper 1 - Sample Answers"
+  },
+  "2013 HSC Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/7f95bdb5-b1a8-4443-80e2-12a33a24b87c/English 2013 HSC Paper 1.pdf?MOD=AJPERES",
+    "title": "English 2013 HSC Paper 1.pdf"
+  },
+  "2013 HSC Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/70a6d0b7-f47e-4415-8fe9-cdd53066e771/English 2013 HSC Paper 2 Advanced.pdf?MOD=AJPERES",
+    "title": "English 2013 HSC Paper 2 Advanced"
+  },
+  "2013 HSC Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/d822cd14-399d-456e-b899-3bafe1d61a6b/English 2013 HSC Paper 2 Standard.pdf?MOD=AJPERES",
+    "title": "English 2013 HSC Paper 2 Standard"
+  },
+  "2013 Marking Guidelines Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/6dbdeb2b-5ce1-4f33-b911-53892604d4c9/English 2013 HSC Paper 1 - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2013 HSC Paper 1 - Marking Guidelines"
+  },
+  "2013 Marking Guidelines Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/b45f7a7a-a255-4a0e-a6cf-5e8cf344c2d0/English 2013 HSC Paper 2 Advanced - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2013 HSC Paper 2 Advanced - Marking Guidelines"
+  },
+  "2013 Marking Guidelines Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/826e26f0-96cf-4940-b2c5-7bb100d04bc3/English 2013 HSC Paper 2 Standard - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2013 HSC Paper 2 Standard - Marking Guidelines"
+  },
+  "2014 HSC Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/65fad7ae-446a-4bb0-9c70-1a9c0bf37f29/English 2014 HSC Paper 1.pdf?MOD=AJPERES",
+    "title": "English 2014 HSC Paper 1.pdf"
+  },
+  "2014 HSC Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/9b5c05ba-a565-4f2a-ad9f-56244ff35098/English 2014 HSC Paper 2 Advanced.pdf?MOD=AJPERES",
+    "title": "English 2014 HSC Paper 2 Advanced"
+  },
+  "2014 HSC Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/58cf0cba-8307-4c4e-8bb5-3de9613d7279/English 2014 HSC Paper 2 Standard.pdf?MOD=AJPERES",
+    "title": "English 2014 HSC Paper 2 Standard"
+  },
+  "2014 Marking Guidelines Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/d3ebabd1-d7a6-4918-ae73-0f62f165e001/English 2014 HSC Paper 1 - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "Marking Guidelines - Paper 1"
+  },
+  "2014 Marking Guidelines Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/0aec0fe2-3f78-4837-bde3-c1116527d492/English 2014 HSC Paper 2 Advanced - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2014 HSC Paper 2 Advanced - Marking Guidelines"
+  },
+  "2014 Marking Guidelines Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/9341ae13-8bcc-4260-9a46-0200655cae55/English 2014 HSC Paper 2 Standard - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2014 HSC Paper 2 Standard - Marking Guidelines"
+  },
+  "2015 HSC Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/9ad94cec-c1dd-4079-bb55-794c528409dc/English 2015 HSC Paper 1.pdf?MOD=AJPERES",
+    "title": "English 2015 HSC Paper 1.pdf"
+  },
+  "2015 HSC Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/b3a4a6f8-9559-4ffd-80c6-17f50f1948cc/English 2015 HSC Paper 2 Advanced.pdf?MOD=AJPERES",
+    "title": "English 2015 HSC Paper 2 Advanced"
+  },
+  "2015 HSC Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/7401fc0c-dc14-4526-99e8-990b1bb8b14e/English 2015 HSC Paper 2 Standard.pdf?MOD=AJPERES",
+    "title": "English 2015 HSC Paper 2 Standard"
+  },
+  "2015 Marking Guidelines Paper 1": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/86c5fec6-6cac-4723-8557-4c982d1e80df/English 2015 HSC Paper 1 - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2015 HSC Paper 1 - Marking Guidelines"
+  },
+  "2015 Marking Guidelines Paper 2 (Advanced)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/a99ba27a-3100-48cd-bf91-61e395b3d274/English 2015 HSC Paper 2 Advanced - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2015 HSC Paper 2 Advanced - Marking Guidelines"
+  },
+  "2015 Marking Guidelines Paper 2 (Standard)": {
+    "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/70dea50f-ae6c-4408-afad-6761fc5a84ea/English 2015 HSC Paper 2 Standard - Marking Guidelines.pdf?MOD=AJPERES",
+    "title": "English 2015 HSC Paper 2 Standard - Marking Guidelines"
+  },   
   "2016 HSC Paper 1": {
     "pdfData": "https://educationstandards.nsw.edu.au/wps/wcm/connect/34347a88-1d0b-4b1d-b625-03ec4addda27/English 2016 HSC Paper 1.pdf?MOD=AJPERES",
     "title": "English 2016 HSC Paper 1"
